@@ -1,0 +1,12 @@
+
+/* public/fonts/calsans.css */
+
+@font-face {
+    font-family: 'Calsans';
+    src: url('/fonts/calsans.woff2') format('woff2'), /* Update the path to match the location of your font files */
+         url('/fonts/calsans.woff') format('woff');
+    /* Add additional font formats if available */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
