@@ -20,7 +20,7 @@ export default function FAQsSection() {
         <div
           dangerouslySetInnerHTML={{
             __html:
-              'Our support team is available via email at <a href="mailto:support@365globeads.com" style="color: teal;">support@365globeads.com</a> or by phone at <span class="clickable" onclick="window.location.href=\'tel:+1234567890\'" style="color: green;">+1 (234) 567-890</span>. Support hours: Monday to Friday, 9:00 AM to 6:00 PM (EST).',
+              'Our support team is available via email at <a href="mailto:support@365globeads.com" style="color: teal;">support@365globeads.com</a> or by phone at <span class="clickable" onclick="window.location.href=\'tel:+447479808754\'" style="color: green;">+1 (234) 567-890</span>. Support hours: Monday to Friday, 9:00 AM to 6:00 PM (EST).',
           }}
         />
       ),

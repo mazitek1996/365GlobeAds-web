@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const FloatingChat = () => {
     const whatsappNumber = "+447479808754";
-    const whatsappMessage = "Hello Nivarix Tech, I'd like to chat with you.";
+    const whatsappMessage = "Hello 365GlobeAds, I'd like to chat with you.";
 
     const handleChatClick = (event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
         event.preventDefault();

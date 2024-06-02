@@ -9,7 +9,7 @@ import ClientPartnerSection from "./client/ClientsSection";
 import CTAsSection from "./CTA/cta_section";
 import TechStackSection from "../../utilities/techStacks/tech_stack_section";
 import FAQsSection from "./FAQs/faq_section";
-
+import Awards from  "../../utilities/techStacks/awards";
 export default function HomeIndex() {
   return (
     <div>
@@ -22,7 +22,7 @@ export default function HomeIndex() {
 
       <TestimonialSection />
 
-      {/* <ClientPartnerSection /> */}
+      <Awards />
 
       <TechStackSection/>
 

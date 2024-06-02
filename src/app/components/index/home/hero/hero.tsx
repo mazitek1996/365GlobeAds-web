@@ -26,6 +26,7 @@ import {
   BiLogoWordpress,
 } from "react-icons/bi";
 import FloatingChat from "@/app/components/utilities/FloatingChat";
+import IpMessage from "./ipMessage";
 
 export function HeroScreen() {
   const texts = [
@@ -64,12 +65,13 @@ export function HeroScreen() {
                 {texts[currentTextIndex]}
               </span>
             </h1>
-            <p className="lg:relative -top-[6rem] text-base md:text-lg text-gray-400 mt-4 mb-[3rem]">
+            {/* <p className="lg:relative -top-[6rem] text-base md:text-lg text-gray-400 mt-4 mb-[3rem]">
               Our team of expert marketers and creative designers are dedicated
               to delivering exceptional digital marketing services that elevate
               your brand and drive success. We don't just offer services, we
               create strategies that transform your business.
-            </p>
+            </p> */}
+            <IpMessage/>
             {/* Buttons */}
             <div className="lg:relative -top-[5rem] flex flex-row space-x-4 mb-[3rem]">
               <Link href="/services">
