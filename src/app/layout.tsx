@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"], weight: ["300", "700"] });
 
 export const metadata: Metadata = {
   title:
-    "365GlobeAds - Elevate Your Brand with Global Reach. Innovative Digital Marketing Solutions to Grow Your Business. Join us on our journey to become a leader in digital marketing.",
+    "365GlobeAds Top SEO Service Company in USA - Elevate Your Brand with Global Reach. Innovative Digital Marketing Solutions to Grow Your Business. Join us on our journey to become a leader in digital marketing.",
   description:
     "Discover the power of innovative digital marketing with 365GlobeAds. We specialize in SEO, PPC, social media marketing, content creation, and more to help businesses achieve their marketing goals. With a focus on innovation and excellence, we deliver personalized strategies that drive results. Partner with us to elevate your brand and succeed in the digital landscape.",
   keywords:
